@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PortFolio-React/static/css/main.bb13fefe.css",
+    "main.js": "/PortFolio-React/static/js/main.d5ae316f.js",
+    "static/media/portfolio.png": "/PortFolio-React/static/media/portfolio.b28cf0babd84f8c2b903.png",
+    "static/media/rtl.png": "/PortFolio-React/static/media/rtl.dc51704a0739e740b360.png",
+    "static/media/vscode.png": "/PortFolio-React/static/media/vscode.e45b6cc16d6154f9338a.png",
+    "static/media/linux.png": "/PortFolio-React/static/media/linux.0cd29e408edda5728c13.png",
+    "static/media/react.png": "/PortFolio-React/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/PortFolio-React/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/PortFolio-React/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/logo.png": "/PortFolio-React/static/media/logo.64495af5890843e387da.png",
+    "static/media/jest.png": "/PortFolio-React/static/media/jest.79b8f15d58d326e3bf9c.png",
+    "static/media/redux.png": "/PortFolio-React/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/github.png": "/PortFolio-React/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/PortFolio-React/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/PortFolio-React/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/PortFolio-React/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/PortFolio-React/index.html",
+    "main.bb13fefe.css.map": "/PortFolio-React/static/css/main.bb13fefe.css.map",
+    "main.d5ae316f.js.map": "/PortFolio-React/static/js/main.d5ae316f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb13fefe.css",
+    "static/js/main.d5ae316f.js"
+  ]
+}
